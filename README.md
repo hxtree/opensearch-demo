@@ -2,7 +2,7 @@
 
 Clone repo:
 ```
-git@github.com:hxtree/opensearch-demo.git
+git clone git@github.com:hxtree/opensearch-demo.git
 ```
 
 Start up containers:
